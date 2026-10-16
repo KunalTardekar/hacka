@@ -1,0 +1,12 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveFileBeforeRun": true,
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\KUNAL\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin;${env:PATH}"
+  },
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "python": "python -u"
+  }
+}

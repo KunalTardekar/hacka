@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.pyc
+tempCodeRunnerFile.*
